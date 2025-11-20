@@ -3,7 +3,7 @@
 ## Linux System
 I love **Linux Class**
 
-I also love _Web Class_
+I don't love _Web Class_
 
 I rather love **_Blockchain Class_**
 
